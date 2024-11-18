@@ -8,6 +8,10 @@
   <img align="center" alt="LCR-Figma" height="37" width="37" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000">
     <img align="center" alt="LCR-Mysql" height="32" width="32" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
       <img align="center" alt="LCR-Python" height="35" width="35" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
+           <img align="center" alt="LCR-Python" height="35" width="35" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png">
+
+
+   
  
 </div>
 

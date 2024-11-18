@@ -4,11 +4,13 @@
  <img align="center" alt="LCR-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="LCR-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="LCR-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="LCR-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="LCR-Figma" height="37" width="37" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000">
-    <img align="center" alt="LCR-Mysql" height="32" width="32" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
-      <img align="center" alt="LCR-Python" height="35" width="35" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
-           <img align="center" alt="LCR-Python" height="35" width="35" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png">
+ <img align="center" alt="LCR-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="LCR-Figma" height="37" width="37" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000">
+ <img align="center" alt="LCR-Mysql" height="32" width="32" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
+ <img align="center" alt="LCR-Python" height="35" width="35" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
+ <img align="center" alt="LCR-Python" height="35" width="35" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png">
+ <img align="center" alt="LCR-Python" height="35" width="35" src="https://img.icons8.com/color/48/mongodb.png">
+
 
 
    

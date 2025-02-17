@@ -10,7 +10,6 @@
  <img align="center" alt="LCR-Figma" height="37" width="37" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000">
  <img align="center" alt="LCR-Mysql" height="30" width="32" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
  <img align="center" alt="LCR-MongoDB" height="35" width="35" src="https://img.icons8.com/color/48/mongodb.png">
- <img align="center" alt="LCR-Python" height="35" width="35" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
  <img align="center" alt="LCR-Java" height="35" width="35" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png">
  <img align="center" alt="LCR-SpringBoot" height="35" width="35" src="https://img.icons8.com/color/48/spring-logo.png">
 
@@ -43,4 +42,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandraCR&layout=compact)](https://github.com/LeandraCR/)
 
- <img align='' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+

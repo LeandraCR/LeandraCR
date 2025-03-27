@@ -7,6 +7,7 @@
  <img align="center" alt="LCR-SpringBoot" height="35" width="35" src="https://img.icons8.com/color/48/tailwind_css.png">
  <img align="center" alt="LCR-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="LCR-Vite" height="35" width="35" src="https://img.icons8.com/fluency/48/vite.png">
+ <img align="center" alt="LCR-Node" height="35" width="35" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000">
  <img align="center" alt="LCR-Figma" height="37" width="37" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000">
  <img align="center" alt="LCR-Mysql" height="30" width="32" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
  <img align="center" alt="LCR-MongoDB" height="35" width="35" src="https://img.icons8.com/color/48/mongodb.png">
